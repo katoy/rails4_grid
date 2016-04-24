@@ -6,3 +6,5 @@ See http://qiita.com/niku4i/items/99ee439031330269d49a
 
     $ rake bower:install
     $ echo /vendor/assets/bower_components >> .gitignore
+
+[![screenshots/screen-00.png](screenshots/screen-00.png)](screenshots/screen-00.png)
